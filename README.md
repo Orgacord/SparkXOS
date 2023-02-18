@@ -1,5 +1,5 @@
 ![Banner](https://github.com/Orgacord/SparkXOS/edit/main/scr/img/Banner.png)
-# SparkXOS ⚠️Not finished⚠️
+# SparkXO ⚠️Not finished⚠️
 Copyright © 2021-2023 Zero+ Team . All rights reserved.
 
 ## 📔 Index
