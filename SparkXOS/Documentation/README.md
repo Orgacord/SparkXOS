@@ -4,7 +4,6 @@ A list of useful pages across the web can be found on [the link list](Links.md).
 
 ## Building and Running
 * [Build Instructions](BuildInstructions.md)
-* [Advanced Build Instructions](AdvancedBuildInstructions.md)
 * [Troubleshooting](Troubleshooting.md)
 * [Running in VirtualBox](VirtualBox.md)
 * [Running in VMware](VMware.md)
