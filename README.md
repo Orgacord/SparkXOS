@@ -31,9 +31,3 @@ Copyright © 2021-now Hiveborn INC & Organon . All rights reserved.
 
 ## ⚠️ License
 Distributed under the [GNU] License. See LICENSE.md for more information.
-
-## 🤝 Contact
-```
-@Orgacord Discord: Organon#4210
-@Brosat Discord: Blacklight#6719
-```
